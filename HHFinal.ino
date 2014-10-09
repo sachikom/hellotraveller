@@ -1,3 +1,16 @@
+/*
+HELLO TRAVELLER 
+An Arduino artefact created for DIGF6L01.
+
+An ultrasonic sensor triggers LCD messages. A button triggers a servo motor.
+A traveller receives a fright.
+
+8 October 2014 
+by Sachiko Murakami
+
+*/
+
+
 // include libraries
 #include <Button.h>
 #include <LiquidCrystal.h>
